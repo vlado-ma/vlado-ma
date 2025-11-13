@@ -18,7 +18,7 @@ I offer remote consulting and software development. For more information you can
 # Status
 
 - 🔭 I’m currently working on: freelancing projects and volunteering side projects
-- 🌱 I’m currently learning: Unity
+- 🌱 I’m currently learning: MartenDB
 - 👯 I’m looking to collaborate on: anything interesting 
 - 💬 Ask me about: C# and .NET, TypeScript, JavaScript, DDD, Unity, Star Trek
 - 📫 How to reach me: kirikowork@duck.com
